@@ -1,5 +1,5 @@
 # Grabber writen in Go
-## TODO:
+## TODO
 - Support Unix, Drawin
 - Browser grab
  
